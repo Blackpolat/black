@@ -1,0 +1,6 @@
+owner=600620097198882827
+prefix=b
+game=black | bplay
+stayinchannel=true
+songinstatus=false
+token=NTc4MzA0MTA3NzYxMjM4MjQ2.XS2hug.P8aNz-Dg_k99JnPWmUF53Rap-AE
